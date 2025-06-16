@@ -36,17 +36,17 @@
 		"framework-arduino-gd32v": {
 			"type": "framework",
 			"system": "*",
-			"version": "file:///root/.platformio/platforms/gd32v/dist/framework-arduino-gd32v-demo-0.1.1.tar.gz"
+			"version": "https://github.com/AStr347/platform-gd32v/releases/download/dist_load/framework-arduino-gd32v-demo-0.1.1.tar.gz"
 		},
 		"framework-gd32vf103-sdk": {
 			"type": "framework",
 			"system": "*",
-			"version": "file:///root/.platformio/platforms/gd32v/dist/framework-gd32vf103-sdk-v1.0.0.tar.gz"
+			"version": "https://github.com/AStr347/platform-gd32v/releases/download/dist_load/framework-gd32vf103-sdk-v1.0.0.tar.gz"
 		},
 		"toolchain-gd32v-linux_x86_64": {
 			"type": "toolchain",
 			"system": "linux_x86_64",
-			"version": "file:///root/.platformio/platforms/gd32v/dist/toolchain-gd32v-v9.2.0-linux.tar.gz"
+			"version": "https://github.com/AStr347/platform-gd32v/releases/download/dist_load/toolchain-gd32v-v9.2.0-linux.tar.gz"
 		},
 		"toolchain-gd32v-windows": {
 			"type": "toolchain",
@@ -54,12 +54,12 @@
 				"windows_x86",
 				"windows_amd64"
 			],
-			"version": "file:///root/.platformio/platforms/gd32v/dist/toolchain-gd32v-v9.2.0-win.tar.gz"
+			"version": "https://github.com/AStr347/platform-gd32v/releases/download/dist_load/toolchain-gd32v-v9.2.0-win.tar.gz"
 		},
 		"tool-openocd-gd32v-linux_x86_64": {
 			"type": "uploader",
 			"system": "linux_x86_64",
-			"version": "file:///root/.platformio/platforms/gd32v/dist/tool-openocd-gd32v-v0.1.1-linux.tar.gz"
+			"version": "https://github.com/AStr347/platform-gd32v/releases/download/dist_load/tool-openocd-gd32v-v0.1.1-linux.tar.gz"
 		},
 		"tool-openocd-gd32v-windows": {
 			"type": "uploader",
@@ -67,12 +67,12 @@
 				"windows_x86",
 				"windows_amd64"
 			],
-			"version": "file:///root/.platformio/platforms/gd32v/dist/tool-openocd-gd32v-v0.1.1-win.tar.gz"
+			"version": "https://github.com/AStr347/platform-gd32v/releases/download/dist_load/tool-openocd-gd32v-v0.1.1-win.tar.gz"
 		},
 		"tool-gd32vflash-linux_x86_64": {
 			"type": "uploader",
 			"system": "linux_x86_64",
-			"version": "file:///root/.platformio/platforms/gd32v/dist/tool-gd32vflash-v0.1.0-linux.tar.gz"
+			"version": "https://github.com/AStr347/platform-gd32v/releases/download/dist_load/tool-gd32vflash-v0.1.0-linux.tar.gz"
 		},
 		"tool-gd32vflash-windows": {
 			"type": "uploader",
@@ -80,7 +80,7 @@
 				"windows_x86",
 				"windows_amd64"
 			],
-			"version": "file:///root/.platformio/platforms/gd32v/dist/tool-gd32vflash-v0.1.0-win.tar.gz"
+			"version": "https://github.com/AStr347/platform-gd32v/releases/download/dist_load/tool-gd32vflash-v0.1.0-win.tar.gz"
 		}
 	}
 }
